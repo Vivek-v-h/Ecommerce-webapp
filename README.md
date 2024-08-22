@@ -20,8 +20,10 @@ MongoDB
 Payment Gateway
 Stripe: Integrated for secure and reliable payment processing.
 ![screenshot](https://github.com/Vivek-v-h/Ecommerce-webapp/blob/main/Screenshot%202024-08-22%20204144.png)
-
-
+![screenshot](https://github.com/Vivek-v-h/Ecommerce-webapp/blob/main/Screenshot%202024-08-22%20204219.png)
+![screenshot](https://github.com/Vivek-v-h/Ecommerce-webapp/blob/main/Screenshot%202024-08-22%20204241.png)
+![screenshot](https://github.com/Vivek-v-h/Ecommerce-webapp/blob/main/Screenshot%202024-08-22%20204307.png)
+![screenshot](https://github.com/Vivek-v-h/Ecommerce-webapp/blob/main/Screenshot%202024-08-22%20204533.png)
 
 Usage
 User Side: Browse products, filter by categories, add items to the cart, and proceed to checkout.
