@@ -19,6 +19,7 @@ Database
 MongoDB
 Payment Gateway
 Stripe: Integrated for secure and reliable payment processing.
+![screenshot](https://github.com/Vivek-v-h/Ecommerce-webapp/blob/main/Screenshot%202024-08-22%20204144.png)
 
 
 
